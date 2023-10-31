@@ -3,18 +3,31 @@ preferred-citation:
   type: software
   message: If you use this software, please cite it as below.
   authors:
-  - family-names: Jocher
-    given-names: Glenn
-    orcid: "https://orcid.org/0000-0001-5950-6979"
-  - family-names: Chaurasia
-    given-names: Ayush
-    orcid: "https://orcid.org/0000-0002-7603-6750"
-  - family-names: Qiu
-    given-names: Jing
-    orcid: "https://orcid.org/0000-0003-3783-7069"
-  title: "YOLO by Ultralytics"
-  version: 8.0.0
-  # doi: 10.5281/zenodo.3908559  # TODO
-  date-released: 2023-1-10
+  - family-names: Fang
+    given-names: Yu
+    orcid: "https://orcid.org/0000-0001-8664-4816"
+  - family-names: Li
+    given-names: Tianrui
+    orcid: "https://orcid.org/0000-0001-7780-104X"
+  - family-names: Tao
+    given-names: Pan
+    orcid: "https://orcid.org/0009-0002-3203-761X"
+  - family-names: Yang
+    given-names: Xin
+    orcid: "https://orcid.org/0000-0002-0406-6774"
+  - family-names: Hu
+    given-names: Ling
+    orcid: "https://orcid.org/0009-0005-8453-5209"
+  - family-names: Wang
+    given-names: Xin
+    orcid: "https://orcid.org/0000-0002-4688-2948"
+  - family-names: Min
+    given-names: Fan
+    orcid: "https://orcid.org/0000-0002-3290-1036"
+
+
+  title: "Knowledge Heuristic based SAM for Track Defect Detection"
+  version: 1.0.0
+  date-released: 2023-10-31
   license: AGPL-3.0
-  url: "https://github.com/ultralytics/ultralytics"
+  url: "https://anonymous.4open.science/r/KH-SAM-F333"
