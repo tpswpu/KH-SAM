@@ -19,8 +19,6 @@ Track defect detection is a critical task for ensuring the safe operation and ma
 
 This project utilized defect datasets including Type-I_RSDDs_dataset, Type-II_RSDDs_dataset, rsdds-dataset_link, rail400_2048x2000_nc3, and rail400_2048x2000_nc8, with image sizes of (160, 1000), (55, 1250), (535, 252), (2048, 2000), and (2048, 2000) respectively.
 
-Dataset download link: https://github.com/FreddyDylan/Dataset
-
 # Dependencies
 
 ```python
